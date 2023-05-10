@@ -96,24 +96,26 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![nar](https://user-images.githubusercontent.com/95266924/234807961-813c3906-5222-4860-8ae2-0e138efc72fa.jpg)
+![g](https://github.com/praga-16/Thresholding/assets/95266924/33a9623e-a5df-4036-ab5f-b98134dc4f58)
 
 
 
 ### Global Thresholding
+![binary](https://github.com/praga-16/Thresholding/assets/95266924/c0cbb5cd-b536-412c-909f-8de779af79e2)
+![binary inverse](https://github.com/praga-16/Thresholding/assets/95266924/b585f2a3-d320-44f0-a10e-db2f73f7210d)
+![t0](https://github.com/praga-16/Thresholding/assets/95266924/46caa545-2e9c-4590-a0da-b824f861adbd)
+![t inverse](https://github.com/praga-16/Thresholding/assets/95266924/6a88a47c-9eaa-4390-a249-892b1361bf81)
+![truncate](https://github.com/praga-16/Thresholding/assets/95266924/ff6935a0-b495-43d0-a1a5-f101da82f422)
 
-![image](https://user-images.githubusercontent.com/95266924/234810003-4cd408c4-1b01-41d8-8d9f-789c273746a1.png)
 
-![](tbi.png)
-![](tz.png)
-![](tzi.png)
-![](tt.png)
+
 ### Adaptive Thresholding
-![](am.png)
-![](ag.png)
+![mean](https://github.com/praga-16/Thresholding/assets/95266924/3f66b22c-9fe0-4a31-9efb-783047391b97)
+![gauss](https://github.com/praga-16/Thresholding/assets/95266924/e06a8a32-7cc8-44cb-adc4-c11055e74655)
+
 
 ### Optimum Global Thesholding using Otsu's Method
-![](o.png)
+![otsu](https://github.com/praga-16/Thresholding/assets/95266924/e5251c7d-3e50-4597-af5e-e6c8e01f9aa4)
 
 
 ## Result
